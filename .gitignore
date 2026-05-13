@@ -1,0 +1,22 @@
+# Eclipse IDE
+.metadata/
+.project
+.classpath
+.settings/
+
+# Spring Boot
+target/
+*.log
+*.tmp
+
+# Angular
+node_modules/
+dist/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
